@@ -1,5 +1,9 @@
 # SOC Lab Roadmap
 
+### Newaz Nezif - Cybersecurity Analyst
+
+[LinkedIn](https://www.linkedin.com/in/newaz-nezif-285439262/)
+
 A curated collection of free TryHackMe rooms designed for practical Security Operations Center (SOC) training. This repository helps aspiring and current SOC analysts build hands-on skills in SIEM investigation, threat hunting, incident response, Windows and Linux log analysis, and digital forensics.
 
 ## Why this repository matters
@@ -119,3 +123,8 @@ If you find this project useful, support the creator by sharing it with others, 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+---
+
+### Newaz Nezif - Cybersecurity Analyst
+[LinkedIn](https://www.linkedin.com/in/newaz-nezif-285439262/)

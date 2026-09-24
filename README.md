@@ -2,6 +2,10 @@
 
 ### Newaz Nezif - Cybersecurity Analyst
 
+[![Pull Shark](https://img.shields.io/badge/GitHub-Pull%20Shark-6cc644?logo=github)](https://github.com/Newaznezif)
+[![YOLO](https://img.shields.io/badge/GitHub-YOLO-ff69b4?logo=github)](https://github.com/Newaznezif)
+[![GitHub Stars](https://img.shields.io/github/stars/Newaznezif/SOC?style=for-the-badge&logo=github)](https://github.com/Newaznezif/SOC/stargazers)
+
 [LinkedIn](https://www.linkedin.com/in/newaz-nezif-285439262/)
 
 A curated collection of free TryHackMe rooms designed for practical Security Operations Center (SOC) training. This repository helps aspiring and current SOC analysts build hands-on skills in SIEM investigation, threat hunting, incident response, Windows and Linux log analysis, and digital forensics.

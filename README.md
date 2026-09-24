@@ -89,6 +89,12 @@ Core skills covered include:
 | 🔗 | Chaining Vulnerabilities | Exploit chain analysis | [Visit](https://tryhackme.com/room/chainingvulnerabilitiesZp) |
 | 🐧 | Linux Logging for SOC | Linux log analysis for SOC | [Visit](https://tryhackme.com/room/linuxloggingforsoc) |
 
+## Additional room source imported from upstream
+
+The repository at https://github.com/subhadeep404/TryHackMe-SOC-Rooms was reviewed and added as a companion reference file in this folder: [tryhackme-soc-rooms-source.md](tryhackme-soc-rooms-source.md).
+
+Duplicate room checks were performed by normalized TryHackMe room slug. The overlap was limited to 16 known rooms already present in this list, and the remaining unique rooms were retained in the source reference file for broader SOC, DFIR, malware, and purple-team coverage.
+
 ## How to use this repository
 
 1. Log in to TryHackMe.

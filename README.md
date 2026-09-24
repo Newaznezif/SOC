@@ -89,11 +89,13 @@ Core skills covered include:
 | 🔗 | Chaining Vulnerabilities | Exploit chain analysis | [Visit](https://tryhackme.com/room/chainingvulnerabilitiesZp) |
 | 🐧 | Linux Logging for SOC | Linux log analysis for SOC | [Visit](https://tryhackme.com/room/linuxloggingforsoc) |
 
-## Additional room source imported from upstream
+## Additional room sources imported from upstream
 
 The repository at https://github.com/subhadeep404/TryHackMe-SOC-Rooms was reviewed and added as a companion reference file in this folder: [tryhackme-soc-rooms-source.md](tryhackme-soc-rooms-source.md).
 
 Duplicate room checks were performed by normalized TryHackMe room slug. The overlap was limited to 16 known rooms already present in this list, and the remaining unique rooms were retained in the source reference file for broader SOC, DFIR, malware, and purple-team coverage.
+
+The repository at https://github.com/AtikBagwan00/tryhackme-soc-free-labs was also reviewed. A duplicate slug check showed the full room set matches this repository exactly, so its contents were archived under [external-sources/atikbagwan00-tryhackme-soc-free-labs](external-sources/atikbagwan00-tryhackme-soc-free-labs) instead of adding duplicate entries to the main curated list.
 
 ## How to use this repository
 

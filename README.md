@@ -39,55 +39,67 @@ Core skills covered include:
 
 > These rooms are free at the time of writing and are a strong starting point for continuous SOC learning.
 
+## SOC Table
+
 | No. | Icon | Title | Focus | Link |
 |-----|------|-------|-------|------|
 | 1 | 🔵 | SOC Role in Blue Team | Security roles | [Visit](https://tryhackme.com/room/socroleinblueteam) |
-| 2 | 🛡️ | Defensive Security Intro | Defensive security foundation | [Visit](https://tryhackme.com/room/defensivesecurityintroqW) |
-| 3 | 📊 | Introduction to SIEM | SIEM basics | [Visit](https://tryhackme.com/room/introtosiem) |
-| 4 | 🖥️ | Introduction to EDR | Endpoint defense | [Visit](https://tryhackme.com/room/introductiontoedrs) |
-| 5 | 📘 | IR Playbooks | Incident response | [Visit](https://tryhackme.com/room/irplaybooks) |
-| 6 | 🗂️ | File and Hash Threat Intel | Threat intelligence | [Visit](https://tryhackme.com/room/fileandhashthreatintel) |
-| 7 | 🧠 | Splunk: Exploring SPL | Splunk querying | [Visit](https://tryhackme.com/room/splunkexploringspl) |
-| 8 | 🧠 | SOC Analyst Basics | SOC L1 alert reporting | [Visit](https://tryhackme.com/room/socl1alertreporting) |
-| 9 | 🕵️ | Threat Hunting Without Logs | Logless threat hunting | [Visit](https://tryhackme.com/room/loglesshunt) |
-| 10 | ⚔️ | APT Detection (Volt Typhoon) | APT detection | [Visit](https://tryhackme.com/room/volttyphoon) |
-| 11 | 🪵 | Windows Log Analysis | Windows logging | [Visit](https://tryhackme.com/room/windowsloggingforsoc) |
-| 12 | 📂 | Windows Threat Detection | Windows detection | [Visit](https://tryhackme.com/room/windowsthreatdetection1) |
-| 13 | 🐧 | Linux Threat Detection 1 | Linux log investigation | [Visit](https://tryhackme.com/room/linuxthreatdetection1) |
-| 14 | 🍯 | Initial Access Pot | Initial access analysis | [Visit](https://tryhackme.com/room/initialaccesspot) |
-| 15 | 🧾 | Intro to Logs | Log fundamentals | [Visit](https://tryhackme.com/room/introtologs) |
-| 16 | 🛠️ | Splunk 101 | Splunk basics | [Visit](https://tryhackme.com/room/splunk101) |
-| 17 | 🧿 | Wazuh | Wazuh SIEM lab | [Visit](https://tryhackme.com/room/wazuhct) |
-| 18 | 📊 | ELK 101 | ELK investigations | [Visit](https://tryhackme.com/room/investigatingwithelk101) |
-| 19 | 🧮 | ELK: Servidae | Log analysis in ELK | [Visit](https://tryhackme.com/room/servidae) |
-| 20 | 📶 | Network Traffic Basics | Network traffic analysis | [Visit](https://tryhackme.com/room/networktrafficbasics) |
-| 21 | ❄️ | TShark | Packet analysis | [Visit](https://tryhackme.com/room/tshark) |
-| 22 | 🌐 | Wireshark | Wireshark fundamentals | [Visit](https://tryhackme.com/room/wiresharkthebasics) |
-| 23 | 🌐 | Event Horizon | Wireshark + file analysis | [Visit](https://tryhackme.com/room/eventhorizonroom) |
-| 24 | 🧾 | NetworkMiner | Forensics and network artifacts | [Visit](https://tryhackme.com/room/networkminer) |
-| 25 | 🔒 | Network Security Essentials | Network monitoring | [Visit](https://tryhackme.com/room/networksecurityessentials) |
-| 26 | 🔍 | Network Discovery Detection | Asset discovery detection | [Visit](https://tryhackme.com/room/networkdiscoverydetection) |
-| 27 | 🪟 | Windows Event Logs | Event analysis | [Visit](https://tryhackme.com/room/windowseventlogs) |
-| 28 | 👨‍💻 | Investigating Windows | Event log forensics | [Visit](https://tryhackme.com/room/investigatingwindows) |
-| 29 | 🔍 | Investigating Windows 2.0 | Windows log forensics | [Visit](https://tryhackme.com/room/investigatingwindows2) |
-| 30 | 💻 | Osquery | Endpoint detection | [Visit](https://tryhackme.com/room/osqueryf8) |
-| 31 | 🐧 | Linux Server Forensics | Linux log forensics | [Visit](https://tryhackme.com/room/linuxserverforensics) |
-| 32 | 🧠 | Memory Forensics | RAM dump analysis | [Visit](https://tryhackme.com/room/memoryforensics) |
-| 33 | 🧊 | Volatility | Memory forensics tooling | [Visit](https://tryhackme.com/room/volatility) |
-| 34 | 🔬 | YARA | Detection rules | [Visit](https://tryhackme.com/room/yara) |
-| 35 | 🧠 | YARA Advanced | Threat hunting with YARA | [Visit](https://tryhackme.com/room/threathuntingwithyara) |
-| 36 | 📑 | SOC Alert Triage | L1 alert triage | [Visit](https://tryhackme.com/room/socl1alerttriage) |
-| 37 | 🎯 | First Shift CTF | SOC challenge exercise | [Visit](https://tryhackme.com/room/first-shift-ctf) |
-| 38 | 📊 | MS Sentinel | Azure Sentinel basics | [Visit](https://tryhackme.com/room/mssentineljustlooking) |
-| 39 | 🕳️ | h4cked | PCAP investigation | [Visit](https://tryhackme.com/room/h4cked) |
-| 40 | 🕷️ | Carnage | Traffic analysis challenge | [Visit](https://tryhackme.com/room/carnage) |
-| 41 | 📌 | CCT2019 | PCAP forensics competition | [Visit](https://tryhackme.com/room/cct2019) |
-| 42 | 📡 | Overpass 2 - Hacked | IR via log analysis | [Visit](https://tryhackme.com/room/overpass2hacked) |
-| 43 | ⚡ | Detecting Web Attacks | Web attack detection | [Visit](https://tryhackme.com/room/detectingwebattacks) |
-| 44 | 🔎 | Identification & Scoping | Incident scoping | [Visit](https://tryhackme.com/room/identificationandscoping) |
-| 45 | 🛡️ | AppSec IR | Application security incident response | [Visit](https://tryhackme.com/room/appsecir) |
-| 46 | 🔗 | Chaining Vulnerabilities | Exploit chain analysis | [Visit](https://tryhackme.com/room/chainingvulnerabilitiesZp) |
-| 47 | 🐧 | Linux Logging for SOC | Linux log analysis for SOC | [Visit](https://tryhackme.com/room/linuxloggingforsoc) |
+| 2 | 📊 | Introduction to SIEM | SIEM basics | [Visit](https://tryhackme.com/room/introtosiem) |
+| 3 | 🖥️ | Introduction to EDR | Endpoint defense | [Visit](https://tryhackme.com/room/introductiontoedrs) |
+| 4 | 🧠 | Splunk: Exploring SPL | Splunk querying | [Visit](https://tryhackme.com/room/splunkexploringspl) |
+| 5 | 🧠 | SOC Analyst Basics | SOC L1 alert reporting | [Visit](https://tryhackme.com/room/socl1alertreporting) |
+| 6 | 🕵️ | Threat Hunting Without Logs | Logless threat hunting | [Visit](https://tryhackme.com/room/loglesshunt) |
+| 7 | 🪵 | Windows Log Analysis | Windows logging | [Visit](https://tryhackme.com/room/windowsloggingforsoc) |
+| 8 | 📂 | Windows Threat Detection | Windows detection | [Visit](https://tryhackme.com/room/windowsthreatdetection1) |
+| 9 | 🐧 | Linux Threat Detection 1 | Linux log investigation | [Visit](https://tryhackme.com/room/linuxthreatdetection1) |
+| 10 | 🍯 | Initial Access Pot | Initial access analysis | [Visit](https://tryhackme.com/room/initialaccesspot) |
+| 11 | 🧾 | Intro to Logs | Log fundamentals | [Visit](https://tryhackme.com/room/introtologs) |
+| 12 | 🛠️ | Splunk 101 | Splunk basics | [Visit](https://tryhackme.com/room/splunk101) |
+| 13 | 🧿 | Wazuh | Wazuh SIEM lab | [Visit](https://tryhackme.com/room/wazuhct) |
+| 14 | 📊 | ELK 101 | ELK investigations | [Visit](https://tryhackme.com/room/investigatingwithelk101) |
+| 15 | 🧮 | ELK: Servidae | Log analysis in ELK | [Visit](https://tryhackme.com/room/servidae) |
+| 16 | 📶 | Network Traffic Basics | Network traffic analysis | [Visit](https://tryhackme.com/room/networktrafficbasics) |
+| 17 | ❄️ | TShark | Packet analysis | [Visit](https://tryhackme.com/room/tshark) |
+| 18 | 🌐 | Wireshark | Wireshark fundamentals | [Visit](https://tryhackme.com/room/wiresharkthebasics) |
+| 19 | 🌐 | Event Horizon | Wireshark + file analysis | [Visit](https://tryhackme.com/room/eventhorizonroom) |
+| 20 | 🧾 | NetworkMiner | Forensics and network artifacts | [Visit](https://tryhackme.com/room/networkminer) |
+| 21 | 🔒 | Network Security Essentials | Network monitoring | [Visit](https://tryhackme.com/room/networksecurityessentials) |
+| 22 | 🔍 | Network Discovery Detection | Asset discovery detection | [Visit](https://tryhackme.com/room/networkdiscoverydetection) |
+| 23 | 🪟 | Windows Event Logs | Event analysis | [Visit](https://tryhackme.com/room/windowseventlogs) |
+| 24 | 💻 | Osquery | Endpoint detection | [Visit](https://tryhackme.com/room/osqueryf8) |
+| 25 | 📑 | SOC Alert Triage | L1 alert triage | [Visit](https://tryhackme.com/room/socl1alerttriage) |
+| 26 | 📊 | MS Sentinel | Azure Sentinel basics | [Visit](https://tryhackme.com/room/mssentineljustlooking) |
+| 27 | ⚡ | Detecting Web Attacks | Web attack detection | [Visit](https://tryhackme.com/room/detectingwebattacks) |
+| 28 | 🐧 | Linux Logging for SOC | Linux log analysis for SOC | [Visit](https://tryhackme.com/room/linuxloggingforsoc) |
+
+## IR Table
+
+| No. | Icon | Title | Focus | Link |
+|-----|------|-------|-------|------|
+| 1 | 📘 | IR Playbooks | Incident response | [Visit](https://tryhackme.com/room/irplaybooks) |
+| 2 | 👨‍💻 | Investigating Windows | Event log forensics | [Visit](https://tryhackme.com/room/investigatingwindows) |
+| 3 | 🔍 | Investigating Windows 2.0 | Windows log forensics | [Visit](https://tryhackme.com/room/investigatingwindows2) |
+| 4 | 🐧 | Linux Server Forensics | Linux log forensics | [Visit](https://tryhackme.com/room/linuxserverforensics) |
+| 5 | 🧠 | Memory Forensics | RAM dump analysis | [Visit](https://tryhackme.com/room/memoryforensics) |
+| 6 | 🧊 | Volatility | Memory forensics tooling | [Visit](https://tryhackme.com/room/volatility) |
+| 7 | 🎯 | First Shift CTF | SOC challenge exercise | [Visit](https://tryhackme.com/room/first-shift-ctf) |
+| 8 | 🕳️ | h4cked | PCAP investigation | [Visit](https://tryhackme.com/room/h4cked) |
+| 9 | 🕷️ | Carnage | Traffic analysis challenge | [Visit](https://tryhackme.com/room/carnage) |
+| 10 | 📌 | CCT2019 | PCAP forensics competition | [Visit](https://tryhackme.com/room/cct2019) |
+| 11 | 📡 | Overpass 2 - Hacked | IR via log analysis | [Visit](https://tryhackme.com/room/overpass2hacked) |
+| 12 | 🔎 | Identification & Scoping | Incident scoping | [Visit](https://tryhackme.com/room/identificationandscoping) |
+| 13 | 🛡️ | AppSec IR | Application security incident response | [Visit](https://tryhackme.com/room/appsecir) |
+| 14 | 🔗 | Chaining Vulnerabilities | Exploit chain analysis | [Visit](https://tryhackme.com/room/chainingvulnerabilitiesZp) |
+
+## CTI Table
+
+| No. | Icon | Title | Focus | Link |
+|-----|------|-------|-------|------|
+| 1 | 🛡️ | Defensive Security Intro | Defensive security foundation | [Visit](https://tryhackme.com/room/defensivesecurityintroqW) |
+| 2 | 🗂️ | File and Hash Threat Intel | Threat intelligence | [Visit](https://tryhackme.com/room/fileandhashthreatintel) |
+| 3 | ⚔️ | APT Detection (Volt Typhoon) | APT detection | [Visit](https://tryhackme.com/room/volttyphoon) |
+| 4 | 🔬 | YARA | Detection rules | [Visit](https://tryhackme.com/room/yara) |
+| 5 | 🧠 | YARA Advanced | Threat hunting with YARA | [Visit](https://tryhackme.com/room/threathuntingwithyara) |
 
 ## Additional room sources imported from upstream
 

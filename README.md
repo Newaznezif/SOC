@@ -2,9 +2,8 @@
 
 ### Newaz Nezif - Cybersecurity Analyst
 
-[![Pull Shark](https://img.shields.io/badge/GitHub-Pull%20Shark-6cc644?logo=github)](https://github.com/Newaznezif)
-[![YOLO](https://img.shields.io/badge/GitHub-YOLO-ff69b4?logo=github)](https://github.com/Newaznezif)
-[![GitHub Stars](https://img.shields.io/github/stars/Newaznezif/SOC?style=for-the-badge&logo=github)](https://github.com/Newaznezif/SOC/stargazers)
+[![Pull Shark](https://img.shields.io/badge/GitHub-Pull%20Shark-6cc644?logo=github)](https://github.com/Newaznezif?tab=achievements)
+[![YOLO](https://img.shields.io/badge/GitHub-YOLO-ff69b4?logo=github)](https://github.com/Newaznezif?tab=achievements)
 
 [LinkedIn](https://www.linkedin.com/in/newaz-nezif-285439262/)
 
